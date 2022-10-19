@@ -50,6 +50,7 @@ section {
 .features {
   background: #FFFFFF;
   color: #000000;
+  background-image: url(images/wooden.jpeg);
 }
 .feature {
   width: 32%;
