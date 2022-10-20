@@ -59,6 +59,14 @@ section {
 }
 .feature img {
   width: 40%;
+  color: black
+}
+.feature p {
+  /* font-size: 20px; */
+  padding-right: 228px;
+  padding-top: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  color: white
 }
 .quote {
   background:#549DA0;
